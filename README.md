@@ -4,5 +4,4 @@
 - [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 - [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 
-### JavaScript
-- [ ] [JavaScript Garden](https://bonsaiden.github.io/)
+
